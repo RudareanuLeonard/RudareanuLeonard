@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudareanuleonard" alt="rudareanuleonard" /></a> </p>
 
-- 🌱 I’m currently learning/working with **Python, C++, Cybersecurity**
+- 🌱 I’m currently learning/working with **Python, C/C++, Cybersecurity**
 
 - 👯 I’m looking to collaborate on **any interesting project**
 
